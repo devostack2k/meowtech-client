@@ -64,7 +64,7 @@
         }, {});
 
         $.ajax({
-          url: "https://meowhouseweb-server.azurewebsites.net/api/user/contact",
+          url: "https://meowtechweb-server.azurewebsites.net/api/user/contact",
           type: "post",
           dataType: "json",
           data: data,
@@ -114,7 +114,7 @@
         console.log(data);
 
         $.ajax({
-          url: "https://meowhouseweb-server.azurewebsites.net/api/user/subscribe",
+          url: "https://meowtechweb-server.azurewebsites.net/api/user/subscribe",
           type: "post",
           dataType: "json",
           data,
