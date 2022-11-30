@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/23339ee5-840d-4b6b-b953-de807af28803/AppServices/subscriptions/23339ee5-840d-4b6b-b953-de807af28803/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/meowhouse-web-client",
+    "appService.deploySubpath": "."
+}
